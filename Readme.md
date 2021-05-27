@@ -31,3 +31,8 @@ Web-Automation-Test-PO-mode-
    ├─ HTMLTestRunner.py   生成HTML测试报告
    ├─ read_txt.py   读取测试数据
 ```
+
+tpshp安装教程可自取
+
+链接：https://pan.baidu.com/s/1KZDrV5RdhaF5icjRq3kTBQ 
+提取码：0n1e 
